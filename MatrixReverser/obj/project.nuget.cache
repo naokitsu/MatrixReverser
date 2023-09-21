@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O8H5st4hd29DYKPJ9o+Jf69oSb7ryCN+yEA6x+Rz/th3qlr64qmwCd5BMG6ifbi0T7Yu3gb7MDbcH8730PODjw==",
+  "success": true,
+  "projectFilePath": "/home/naokitsu/RiderProjects/L1/MatrixReverser/MatrixReverser.csproj",
+  "expectedPackageFiles": [
+    "/home/naokitsu/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
